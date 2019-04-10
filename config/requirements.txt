@@ -2,3 +2,5 @@ jupyter
 google-cloud-storage
 graphene
 graphqlclient
+python-dotenv
+pandas
